@@ -3,19 +3,19 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
-🚀 Passionate Python developer focused on building scalable systems, automating processes, and integrating AI into the real world.
+ Passionate Python developer focused on building scalable systems, automating processes, and integrating AI into the real world.
 
-🧠 AI/ML enthusiast with a strong interest in NLP, generative AI, and smart product development.
+ AI/ML enthusiast with a strong interest in NLP, generative AI, and smart product development.
 
-🎯 Startup-minded tech builder who believes in writing clean, testable code that solves real business problems.
+ Startup-minded tech builder who believes in writing clean, testable code that solves real business problems.
 
 ---
 
 ### 🧠 Skills & Tech Stack
 
-- 💻 **Languages**: Python, JavaScript (Basics), Bash
+- 💻 **Languages**: Python, Java, JavaScript(basic).
 - 🌐 **Frameworks**: FastAPI, Flask, Django, LangChain
 - 🧠 **AI/ML**: Scikit-learn, TensorFlow, OpenAI APIs, Hugging Face
 - 🗃️ **Databases**: PostgreSQL, MongoDB, SQLite
