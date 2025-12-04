@@ -36,9 +36,8 @@
 ### 📫 Let's Connect!
 
 - 🌐 Portfolio: *Coming soon*
-- 🧑‍💼 LinkedIn: [Add Link Here]
-- 🐦 Twitter: [Add Link Here]
-- ✉️ Email: [your email here]
+- 🧑‍💼 LinkedIn: (https://www.linkedin.com/in/manideep-patel/)
+- ✉️ Email: patelmanideep190@gmail.com
 
 ---
 
