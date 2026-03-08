@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Manideep Parwl. 👋
+# Hi there, I'm Manideep Patel. 👋
 
 ### 🎓 Recent AIML Graduate • 🤖 ML/AI Enthusiast • ⚙️ Backend Developer
 
